@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
         }
         .container {
             max-width: 800px;
-            margin: 50px auto;
+            margin: 50px auto;º
             background: white;
             padding: 20px;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -37,17 +37,16 @@
         }
     </style>
 </head>
-<body>
+s<body>
     <div class="container">
         <h1>Control de Versiones</h1>
         
         <div class="integrantes">
             <h2>Integrantes del Proyecto</h2>
             <ul>
-                <li>Juan Pérez</li>
-                <li>María Gómez</li>
-                <li>Carlos Rodríguez</li>
-                <li>Ana Martínez</li>
+                <li>Holger contreras</li>
+                <li>jaime montes</li>
+                
             </ul>
         </div>
         

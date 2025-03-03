@@ -37,7 +37,7 @@
         }
     </style>
 </head>
-s<body>
+<body>
     <div class="container">
         <h1>Control de Versiones</h1>
         
